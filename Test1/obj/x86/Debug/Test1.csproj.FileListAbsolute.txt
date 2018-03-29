@@ -1,0 +1,9 @@
+F:\ArcGisTest\Test1\Test1\bin\Debug\Test1.exe
+F:\ArcGisTest\Test1\Test1\bin\Debug\Test1.pdb
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.Form1.resources
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.csproj.GenerateResource.Cache
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.exe.licenses
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.exe
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.pdb
+F:\ArcGisTest\Test1\Test1\obj\x86\Debug\Test1.csprojResolveAssemblyReference.cache
